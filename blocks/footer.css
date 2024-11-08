@@ -1,0 +1,40 @@
+.footer {
+  width: 10.1875rem;
+  margin: auto;
+  align-items: center;
+  display: flex;
+  padding-top: 92px;
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding-top: 64px;
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+  .footer {
+    padding-top: 88px;
+  }
+}
+
+.footer__copyright {
+  width: 10.1875rem;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.44;
+  text-align: center;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    font-size: 14px;
+  }
+}
