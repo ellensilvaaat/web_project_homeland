@@ -34,3 +34,5 @@ Para a conclusão do projeto, várias técnicas podem ser utilizadas para garant
 A consulta de mídias é uma técnica que permite que o site se adapte a diferentes dispositivos e tamanhos de tela. Ela consiste em definir regras de estilo específicas para cada tamanho de tela, permitindo que o site seja exibido de forma otimizada em cada dispositivo. Dessa forma, é possível garantir que os elementos do site sejam dispostos de forma adequada em telas maiores e menores, sem comprometer a legibilidade ou a usabilidade do site.
 
 </p>
+
+https://github.com/ellensilvaaat/web_project_homeland

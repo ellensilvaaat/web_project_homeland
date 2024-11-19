@@ -5,10 +5,17 @@ body {
   margin: auto;
   background-color: #292c2f;
   font-family: "Inter", Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 @supports (font-variation-settings: normal) {
   :root {
     font-family: "Inter var", sans-serif;
   }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
